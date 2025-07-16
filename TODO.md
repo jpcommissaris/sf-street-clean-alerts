@@ -1,0 +1,3 @@
+- Create the shortcut
+- Create & test the API
+- Create the dockerfile & deploy to aws lambda
