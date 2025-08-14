@@ -10,11 +10,13 @@ Parking my car overnight & waking up the following morning to a $105 ticket 🤦
 Automatically query this API on CarPlay disconnect via Apple Shortcut:
 TODO (working on it)
 
+Why use CarPlay Disconnect? (for the shortcut):
+- This is the best way I know of to determine when you've parked your car. As of writing this, Apple doesn't expose its "parked car" feature on Apple Maps to third parties.
+
 ## Raw API:
 TODO (working on exposing it in Docker - completed in dev mode)
 
-Why use CarPlay disconnect?:
-- This is the best way I know of to determine when you've parked your car. As of writing this, Apple doesn't expose its "parked car" feature on Apple Maps to third parties.
+
 
 Does this api store your location data?:
 NO
