@@ -3,12 +3,18 @@
 ## What is this?
 This is an API that alerts you to the next scheduled street cleaning date, based on the location input. 
 
-## Apple shorcut
-Automatically query this API on carplay disconnect via apple shortcut:
-TODO
+## Inspiration
+Parking my car overnight & waking up the following morning to a $105 ticket 🤦‍♂️ 
 
-Why carplay disconnect?:
-- This is the best way i know of to determine when you've parked your car. As of writing this, apple doesn't expose their "parked car" feature on apple maps to third parties.
+## Apple shortcut
+Automatically query this API on CarPlay disconnect via Apple Shortcut:
+TODO (working on it)
+
+## Raw API:
+TODO (working on exposing it in Docker - completed in dev mode)
+
+Why use CarPlay disconnect?:
+- This is the best way I know of to determine when you've parked your car. As of writing this, Apple doesn't expose its "parked car" feature on Apple Maps to third parties.
 
 Does this api store your location data?:
 NO
